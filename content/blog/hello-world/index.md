@@ -1,7 +1,7 @@
 ---
 title: Yes, I'm An Introvert. No, I Don't Have To Be An Extrovert.
 date: "2015-05-01T22:12:03.284Z"
-description: "Hello World"
+description: "What You See vs What I Know"
 ---
 ![Laquasia Tyson](./LaquasiaTyson.png)
 
